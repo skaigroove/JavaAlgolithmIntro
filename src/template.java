@@ -16,3 +16,7 @@ public class template {
 
     }
 }
+
+/**
+ * 자동정렬 : cmd + opt + L
+ */
