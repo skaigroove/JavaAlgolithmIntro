@@ -1,3 +1,5 @@
+package Section1;
+
 import java.util.Scanner;
 
 public class Section1_2 {

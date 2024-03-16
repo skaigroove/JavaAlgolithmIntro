@@ -1,3 +1,5 @@
+package Section1;
+
 import java.util.Scanner;
 
 /** 회문 문자열
